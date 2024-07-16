@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "chromedriver": "^126.0.4",
+    "nightwatch": "^3.6.3",
+    "selenium-webdriver": "^4.21.0"
+  },
+  "dependencies": {
+    "edgedriver": "^5.6.0",
+    "geckodriver": "^3.2.0"
+  }
+}
